@@ -11,3 +11,16 @@ switch TrafficLightz{
     case .green:
     print("green")
 }
+
+//Question 2
+let animal = "Dog"
+switch animal{
+    case "Cat":
+    print("Cat")
+    case "Dog":
+    print("Dog")
+    case "Cow":
+    print("Cow")
+    default:
+    print("Something else, I don't know")
+}
