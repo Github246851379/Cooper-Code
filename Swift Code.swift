@@ -7,4 +7,6 @@ print(canVote)
 //Question 2
 let temperature = 15
 let weatherMessage = temperature > 20 ? "Warm" : "Cold"
-print(
+print(weatherMessage)
+
+//question 3
